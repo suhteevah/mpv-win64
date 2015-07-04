@@ -2,7 +2,7 @@
 mpv built on arch for win64
 
 ##Includes
-youtube-dl (2015.06.15)
+youtube-dl (2015.07.04)
 
 librtmp
 lcms
